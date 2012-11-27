@@ -6,4 +6,5 @@ Run the following commands to init and sync the android source tree:
     $ mkdir system_jb
     $ cd system_jb
     $ repo init -u git://github.com/apohl79/android.git -b jb
+    $ cd .repo && ln -s manifests/local_manifest.xml . && cd ..
     $ repo sync -j8
