@@ -14,7 +14,7 @@
   <default revision="refs/heads/mr1-staging"
            remote="github"
            sync-c="true"
-           sync-j="4" />
+           sync-j="8" />
 
   <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
