@@ -386,10 +386,10 @@
 
   <!-- Nexus 7 -->
   <project name="apohl79/android_device_asus_grouper" path="device/asus/grouper" remote="github" revision="jb" />
-  <project name="apohl79/android_device_asus_tilpia" path="device/asus/tilpia" remote="github" revision="jb" />
+  <project name="apohl79/android_device_asus_tilapia" path="device/asus/tilapia" remote="github" revision="jb" />
   <project name="apohl79/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="jb" />
   <project name="apohl79/android_proprietary_asus_grouper" path="vendor/grouper" remote="github" revision="jb" />
-  <project name="apohl79/android_proprietary_asus_tilpia" path="vendor/tilpia" remote="github" revision="jb" />
+  <project name="apohl79/android_proprietary_asus_tilapia" path="vendor/tilapia" remote="github" revision="jb" />
 
   <!-- Xoom -->
   <project name="apohl79/android_device_moto_wingray" path="device/moto/wingray" remote="github" revision="jb" />
