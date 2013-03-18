@@ -378,6 +378,7 @@
 
   <!-- IONIX Settings App -->
   <project name="apohl79/android_packages_apps_OMParts" path="packages/apps/OMParts" remote="github" revision="jb" />
+  <project name="apohl79/android_packages_apps_VoltageControl" path="packages/apps/VoltageControl" remote="github" revision="jb" />
 
   <!-- Nexus 4 -->
   <project name="apohl79/android_device_lge_mako" path="device/lge/mako" remote="github" revision="jb" />
